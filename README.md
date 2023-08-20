@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsav Maji</h1>
 <h3 align="center">AI & Data Science student</h3>
-
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav2505&label=Profile%20views&color=0e75b6&style=flat" alt="utsav2505" /> </p>
 
 - 🌱 I’m currently learning **Javascript, R**
